@@ -1,0 +1,109 @@
+button{
+  vertical-align: bottom;
+}
+.subscribe-button{
+background-color: rgb(204, 0, 0);
+color: white;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: none;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 8px;
+transition: opacity 0.2s;
+vertical-align: bottom;
+}
+.subscribe-button:hover{
+opacity: 0.7;
+}
+.subscribe-button:active{
+opacity: 0.4;
+}
+.Join-button{
+  background-color: white;
+  border-color: rgb(0, 195, 255);
+  border-radius: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  color: rgb(1, 164, 214);
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s
+}
+.Join-button:hover{
+  background-color: rgb(1, 164, 214);
+  color: white;
+}
+.Join-button:active{
+  opacity: 0.5;
+}
+.Tweet-button{
+  background-color: rgb(0, 119, 255);
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 21px;
+  border: none;
+  margin-left: 8px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.15s, 
+  box-shadow 0.15s;
+}
+.Tweet-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.Tweet-button:active{
+  opacity: 0.4;
+}
+.Request-button{
+  background-color: black;
+  color: white;
+  width: 107px;
+  height: 35px;
+  border: none;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: 0.15s;
+}
+.Request-button:hover{
+  opacity:0.8;
+}
+.Add-button{
+  background-color: rgba(255, 216, 20);
+  color: black;
+  border: none;
+  width: 189px;
+  height: 37px;
+  border-radius: 28px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+.Add-button:hover{
+  opacity: 0.9;
+}
+.Signup-button{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 38px;
+  width: 82px;
+  border: none;
+  border-radius: 7px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+}
+.Signup-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
