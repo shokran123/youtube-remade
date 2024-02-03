@@ -31,3 +31,12 @@ main{
 .shokran{
   font-weight: bold;
 }
+.Note{
+  margin-bottom: 0;
+  margin-top: 5px;
+  color: gray;
+}
+.note{
+  color: black;
+  font-weight: bold;
+}
