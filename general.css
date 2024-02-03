@@ -1,0 +1,33 @@
+p{
+  font-family:  Roboto, Arial;
+}
+body{
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 22px;
+  background-color: rgb(243, 243, 243);
+}
+main{
+  position: relative;
+  padding-bottom: 100px;
+}
+.owner{
+  position: absolute;
+  left: 300px;
+  bottom: 10px;
+  text-align: center;
+}
+.name{
+  font-family: Roboto, Arial;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.feedback{
+  margin-top: 5px;
+  color: gray;
+}
+.shokran{
+  font-weight: bold;
+}
